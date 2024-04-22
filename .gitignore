@@ -32,3 +32,5 @@ terraform.tfplan
 # Ignore specific file 'tf_sa_key'
 tf_sa_key
 
+#ignore terraform application
+terraform.exe
